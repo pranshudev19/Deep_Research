@@ -1,0 +1,41 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# ===== Virtual Environment =====
+venv/
+env/
+.venv/
+
+# ===== OS / Editor Files =====
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# ===== Environment Variables =====
+.env
+*.env
+
+# ===== Jupyter / IPython =====
+.ipynb_checkpoints
+
+# ===== Cache / Build =====
+build/
+dist/
+*.egg-info/
+.cache/
+.pytest_cache/
+
+# ===== Temporary Files =====
+*.tmp
+*.bak
+*.swp
+*.orig
+
+# ===== Others =====
+logs/
+__MACOSX/
